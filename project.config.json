@@ -1,16 +1,30 @@
 {
-	"miniprogramRoot": "dist/",
-	"projectname": "taro-yanxuan",
-	"description": "Taro 多端实践之网易严选（微信小程序 + H5 + React Native）",
-	"appid": "touristappid",
-	"setting": {
-		"urlCheck": false,
-		"es6": false,
-		"postcss": false,
-		"minified": false,
-		"newFeature": true,
-		"autoAudits": false
-	},
-	"compileType": "miniprogram",
-	"condition": {}
+  "miniprogramRoot": "dist/",
+  "projectname": "taro-yanxuan",
+  "description": "Taro 多端实践之三星严选（微信小程序 + H5 + React Native）",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": false,
+    "scopeDataCheck": false,
+    "coverView": true,
+    "es6": false,
+    "postcss": false,
+    "compileHotReLoad": false,
+    "preloadBackgroundData": false,
+    "minified": false,
+    "autoAudits": false,
+    "newFeature": true,
+    "uglifyFileName": false,
+    "uploadWithSourceMap": true,
+    "useIsolateContext": true,
+    "nodeModules": false,
+    "enhance": false,
+    "useCompilerModule": false,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "showShadowRootInWxmlPanel": true
+  },
+  "compileType": "miniprogram",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {}
 }
