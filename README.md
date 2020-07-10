@@ -1,6 +1,6 @@
 # taro-yanxuan
 
-![overview](https://qit-team.github.io/public/images/taro-yanxuan/overview.png)
+![overview](https://.png)
 
 首个 [Taro](https://github.com/NervJS/taro) 多端统一实例 - 三星严选（小程序 + H5 + React Native）。
 
@@ -12,9 +12,9 @@
 
 本项目直接调用的三星严选接口，若要体验登录、购物车功能，请使用三星邮箱账号登录。
 
-|        小程序         |             H5 - [访问链接](http://jsnewbee.com/taro-yanxuan/)              |                         React Native                          |
-| :-------------------: | :-------------------------------------------------------------------------: | :-----------------------------------------------------------: |
-| 请 clone 代码本地运行 | ![H5](https://qit-team.github.io/public/images/taro-yanxuan/h5-qr-code.png) | [Expo Snacks](https://snack.expo.io/@caiminxing/taro-yanxuan) |
+|        小程序         | H5 - [访问链接](http://jsnewbee.com/taro-yanxuan/) |  React Native   |
+| :-------------------: | :------------------------------------------------: | :-------------: |
+| 请 clone 代码本地运行 |           ![H5](https://h5-qr-code.png)            | [Expo Snacks]() |
 
 如下是 **React Native** 的运行截图：
 
